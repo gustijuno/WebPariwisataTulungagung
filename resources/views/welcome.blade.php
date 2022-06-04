@@ -63,10 +63,10 @@
 {{-- start plan --}}
 <div class="container-fluid plan">
     <div class="row text-center">
-        <h1  class="m-auto"><strong>Plan Your Tour Easly</strong></h1>
+        <h1  class="m-auto"><strong>Sekilas Informasi</strong></h1>
     </div>
     <div class="row">
-        <p style="color: rgb(192, 174, 174)" class="lead m-auto">Quisque at tortor a libero  posuere laoreet vitae sed arcu. Curabitur consequat. </p>
+        <p style="color: rgb(192, 174, 174)" class="lead m-auto">Apa aja sih yang terkenal di Tulungagung??? </p>
     </div>
     <div class="row text-center">
         <div class="col-md-4">
@@ -77,14 +77,14 @@
 
         <div class="col-md-4">
             <i class="fa fa-spoon" aria-hidden="true"></i>
-            <h3>Room and food included</h3>
-            <p>Suscipit invenire petentium per in. Ne magna assueverit vel. Ne magna assueverit vel.Vix movet perfecto facilisis in, ius ad maiorum corrumpit, his esse docendi in.</p>
+            <h3>Makanan</h3>
+            <p>Salah satu masakan berbahan daging ayam yang belum banyak dikenal orang adalah ayam lodho yang berasal dari Tulungagung. Pada dasarnya ayam Lodho adalah daging ayam bakar atau panggang yang dimasak lagi dalam santan dengan bumbu mirip kari pedas. Biasanya orang menggunakan api kecil ketika memasukkan daging ayam yang sudah dipanggang ke dalam bumbu. Api yang berasal dari kayu bakar ini akan mendidihkan santan beserta bumbu-bumbunya hingga kuahnya mengental dan daging ayam mengering.  </p>
         </div>
 
         <div class="col-md-4">
             <i class="fa fa-map-marker" aria-hidden="true"></i>
-            <h3>Everything organized</h3>
-            <p>Suscipit invenire petentium per in. Ne magna assueverit vel. Ne magna assueverit vel. Vix movet perfecto facilisis in, ius ad maiorum corrumpit, his esse docendi in.</p>
+            <h3>Tempat Wisata</h3>
+            <p>Tulungagung terkenal akan tempat wisatanya, biasanya tempat yang banyak dikunjungi adalah pantai, pantai yang terkenal dan legend adalah popoh, pantai ini terletak di daerah Besuki, Tulungagung. Selain pantai Tulungagung juga mempunyai tempat wisata seperti Air terjun , dan tempat camping (gunung)</p>
         </div>
     </div>
 </div>
@@ -93,7 +93,7 @@
 {{-- start packages --}}
 <div class="container places">
     <div class="row justify-content-center">
-        <h1><strong>Our All Amazing Packages</strong></h1>
+        <h1><strong>Tawaran Paket dari Kami</strong></h1>
     </div>
     <div class="row my-5">
         @forelse ($packages as $package)
