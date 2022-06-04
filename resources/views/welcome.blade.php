@@ -21,7 +21,10 @@
 		<div class="row">
 			<div class="col-md-6">
 				<p class="promo-title">Tentang Tulungagung</p>
-				<p class="text-justify lead"> Tulungagung adalah kota kecil di selatan provinsi jawa timur yang menawarkan wisata yane melimpah </p>
+				<p class="text-justify lead"> Tulungagung adalah salah satu kabupaten yang terletak di Provinsi Jawa Timur, Indonesia. Pusat pemerintahan Kabupaten Tulungagung berada di Kecamatan Tulungagung. 
+                    Tulungagung terkenal sebagai satu dari beberapa daerah penghasil marmer terbesar di Indonesia. Tulungagung mempunyai banyak destinasi wisata yang terkenal dan akan terus bertambah seiring dengan berjalanya waktu. 
+                    Selain destinasi wisata yang terkenal, Tulungagung juga mempunyai beragam kebudayaan dan wisata kuliner yang juga tidak kalah terkenal. Selain industri marmer, 
+                    di Tulungagung juga tumbuh dan berkembang berbagai industri kecil dan menengah antara lain memproduksi alat-alat/perkakas rumah tangga, batik, dan konfeksi termasuk bordir. </p>
 				<a href="{{ route('about') }}" class="btn btn-info py-2 px-3"><strong>Details</strong></a>
 			</div>
 			<div class="col-md-6 text-center">
