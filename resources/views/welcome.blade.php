@@ -1,6 +1,6 @@
 @extends('layouts.frontend.master')
 @section('title')
-    Tourist Guide - Home
+    Tulungagung
 @endsection
 
 @section('css')
@@ -67,19 +67,19 @@
     </div>
     <div class="row text-center">
         <div class="col-md-4">
-            <i class="fa fa-phone-square" aria-hidden="true"></i>
-            <h3>24/7 Support</h3>
+            <i class="fa fa-heart" aria-hidden="true"></i>
+            <h3>Budaya</h3>
             <p>Suscipit invenire petentium per in. Ne magna assueverit vel. Ne magna assueverit vel. Vix movet perfecto facilisis in, ius ad maiorum corrumpit, his esse docendi in.</p>
         </div>
 
         <div class="col-md-4">
-            <i class="fa fa-cog" aria-hidden="true"></i>
+            <i class="fa fa-spoon" aria-hidden="true"></i>
             <h3>Room and food included</h3>
             <p>Suscipit invenire petentium per in. Ne magna assueverit vel. Ne magna assueverit vel.Vix movet perfecto facilisis in, ius ad maiorum corrumpit, his esse docendi in.</p>
         </div>
 
         <div class="col-md-4">
-            <i class="fa fa-sitemap" aria-hidden="true"></i>
+            <i class="fa fa-map-marker" aria-hidden="true"></i>
             <h3>Everything organized</h3>
             <p>Suscipit invenire petentium per in. Ne magna assueverit vel. Ne magna assueverit vel. Vix movet perfecto facilisis in, ius ad maiorum corrumpit, his esse docendi in.</p>
         </div>

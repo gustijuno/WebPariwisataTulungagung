@@ -1,6 +1,6 @@
 @extends('layouts.backend.master')
 @section('title')
-    Tourist Guide - Dashboard
+    Tulungagung - Dashboard
 @endsection
 @section('content')
 <div class="container">
