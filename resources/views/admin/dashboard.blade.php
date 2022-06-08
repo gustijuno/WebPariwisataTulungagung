@@ -12,7 +12,7 @@
     <div class="dashbord">
         <div class="icon-section">
             <i class="fas fa-chart-area"></i><br>
-            Districts
+            Daerah
             <p>{{ $districts->count() }}</p>
         </div>
         <div class="detail-section">
@@ -22,7 +22,7 @@
     <div class="dashbord dashbord-green">
         <div class="icon-section">
             <i class="fas fa-atlas"></i><br>
-            Placetype
+            Tipe Tempat
             <p>{{ $placetypes->count() }}</p>
         </div>
         <div class="detail-section">
@@ -32,7 +32,7 @@
     <div class="dashbord dashbord-orange">
         <div class="icon-section">
             <i class="fa fa-info-circle" aria-hidden="true"></i><br>
-                Places
+                Tempat Wisata
                 <p>{{ $places->count() }}</p>
         </div>
         <div class="detail-section">

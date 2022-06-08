@@ -38,7 +38,7 @@
 {{-- start place --}}
 <div class="container places">
     <div class="row justify-content-center">
-        <h1><strong>Amazing Places</strong></h1>
+        <h1><strong>Wisata Tulungagung</strong></h1>
     </div>
     @forelse ($places as $place)
         <div class="row my-5">

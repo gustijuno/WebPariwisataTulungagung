@@ -100,13 +100,17 @@
   padding: 15px 0px;
 }
 .plan{
-  background-image: url('../img/50-Beautiful-and-Minimalist-Presentation-Backgrounds-01.jpg');
+  background-image: linear-gradient(
+    rgba(0, 0, 0, 0.7), 
+    rgba(0, 0, 0, 0.7)
+  ), url('../img/Cover.png');
   color: whitesmoke;
   height: 100%;
   background-attachment: fixed;
   background-size: cover;
   padding-top: 60px;
   padding-bottom: 60px;
+  opacity: .90;
  
 }
 

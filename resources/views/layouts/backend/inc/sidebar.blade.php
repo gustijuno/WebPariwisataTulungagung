@@ -39,7 +39,7 @@
             <a href="{{ route('admin.district.index') }}" class="nav-link {{ Request::is('admin/district*') ? 'active' : '' }}">
               <i class="fas fa-chart-area"></i>
               <p class="ml-2">
-                District
+                Daerah
               </p>
             </a>
           </li>
@@ -47,7 +47,7 @@
             <a href="{{ route('admin.type.index') }}" class="nav-link {{ Request::is('admin/type*') ? 'active' : '' }}">
               <i class="fas fa-atlas"></i>
               <p class="ml-2">
-                Place Type
+                Tipe Tempat
               </p>
             </a>
           </li>
@@ -63,7 +63,7 @@
             <a href="{{ route('admin.place.index') }}" class="nav-link {{ Request::is('admin/place*') ? 'active' : '' }}">
               <i class="fa fa-info-circle" aria-hidden="true"></i>
               <p class="ml-2">
-                Places
+                Tempat Wisata
               </p>
             </a>
           </li>
@@ -103,7 +103,7 @@
           <a href="{{ route('admin.package.index') }}" class="nav-link {{ Request::is('admin/package*') ? 'active' : '' }}">
             <i class="fa fa-shopping-cart" aria-hidden="true"></i>
               <p class="ml-2">
-                  Packages
+                  Paket Wisata
             </p>
           </a>
         </li>
