@@ -167,12 +167,11 @@
 {{-- start social media --}}
 <section id="social-media">
 	<div class="container text-center">
-		<p>	Find us on Social Media</p>
+		<p>Social Media</p>
 		<div class="social-icon">
             <a target="_blank" href=""><img src="{{ asset('frontend/img/facebook.png') }}"></a>
 			<a target="_blank" href=""><img src="{{ asset('frontend/img/twitter.png') }}"></a>
 			<a target="_blank" href=""><img src="{{ asset('frontend/img/instagram.png') }}"></a>
-			<a target="_blank" href=""><img src="{{ asset('frontend/img/linkedin.png') }}">
             </a>
 			
 			
