@@ -1,6 +1,6 @@
 @extends('layouts.frontend.master')
 @section('title')
-    Tourist Guide - About
+    About
 @endsection
 
 @section('css')

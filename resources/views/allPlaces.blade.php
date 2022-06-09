@@ -1,6 +1,6 @@
 @extends('layouts.frontend.master')
 @section('title')
-    Tourist Guide - All Places
+    Tempat
 @endsection
 
 @section('css')

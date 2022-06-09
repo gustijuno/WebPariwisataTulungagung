@@ -146,7 +146,7 @@
 {{-- start district --}}
 <div class="container-fluid district-show text-center">
     <div class="row">
-        <h1 class="m-auto "><strong>Show District Wise Amazing Places</strong></h1>
+        <h1 class="m-auto "><strong>Daerah Pariwisata</strong></h1>
     </div>
     <div class="row px-3 justify-content-center my-5">
         @forelse ($districts as $district)
@@ -169,10 +169,10 @@
 	<div class="container text-center">
 		<p>	Find us on Social Media</p>
 		<div class="social-icon">
-            <a target="_blank" href="https://www.facebook.com/"><img src="{{ asset('frontend/img/facebook.png') }}"></a>
-			<a target="_blank" href="https://twitter.com/"><img src="{{ asset('frontend/img/twitter.png') }}"></a>
-			<a target="_blank" href="https://www.instagram.com/"><img src="{{ asset('frontend/img/instagram.png') }}"></a>
-			<a target="_blank" href="https://www.linkedin.com/"><img src="{{ asset('frontend/img/linkedin.png') }}">
+            <a target="_blank" href=""><img src="{{ asset('frontend/img/facebook.png') }}"></a>
+			<a target="_blank" href=""><img src="{{ asset('frontend/img/twitter.png') }}"></a>
+			<a target="_blank" href=""><img src="{{ asset('frontend/img/instagram.png') }}"></a>
+			<a target="_blank" href=""><img src="{{ asset('frontend/img/linkedin.png') }}">
             </a>
 			
 			
@@ -188,7 +188,7 @@
 {{-- start searching --}}
 <div class="container-fluid search-section text-center">
     <div class="row">
-        <h1 class="m-auto "><strong>You Can Search Our Amazing Places</strong></h1>
+        <h1 class="m-auto "><strong>Cari tempat disini</strong></h1>
     </div>
     <div class="row justify-content-center">
         <div class="col-md-9">

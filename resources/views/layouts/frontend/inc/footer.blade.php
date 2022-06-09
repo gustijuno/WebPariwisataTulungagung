@@ -9,15 +9,7 @@
             <p class="text-center m-auto p-3 text-white bg-dark"><strong>No Placetype found right now</strong></p>
           @endforelse
         </div>
-        <div class="col-md-4">
-          <h2 class="head">Services</h2>
-          <p><i class="fas fa-check"> </i> <a href="">Safe</a></p>
-           <p><i class="fas fa-check"> </i>  <a href="">Low Cost Packages</a></p>
-           <p><i class="fas fa-check"> </i> <a href="">Amazing Places</a></p>
-           <p><i class="fas fa-check"> </i> <a href="">Secure</a></p>
-           <p><i class="fas fa-check"> </i> <a href="">Talented Guides</a></p>
-           <p><i class="fas fa-check"> </i> <a href="">24/7 Support</a></p>
-        </div>
+        
 
        
         <div class="col-md-4">
@@ -28,6 +20,6 @@
         </div>
       </div>
       <hr style="background-color: white;" class="pb-0">
-      <p class="text-center p-3 mb-0"> &copy;<b>Tourist Guide</b></p>
+      <p class="text-center p-3 mb-0"> &copy;<b>Tulungagung</b></p>
     </div>
   </section>
